@@ -1,0 +1,5 @@
+{
+  "name": "RedditToon - Viral Story Ebook Creator",
+  "description": "Turn viral Reddit stories into illustrated cartoon ebooks using Gemini 2.5 Flash for content and Gemini 2.5 Flash Image for generation and editing.",
+  "requestFramePermissions": []
+}
